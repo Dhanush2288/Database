@@ -1,31 +1,76 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+	"id": "1",
+	"name": "Brendan",
+	"phone": "1-724-406-2487",
+	"company": "ZEnim Commodo Limited Enim Commodo Limited Enim Commodo LimitedEnim Commodo Limited",
+	"country": "Bangladesh"
+}, {
+	"id": "2",
+	"name": "Warren",
+	"phone": "1-412-485-9725",
+	"company": "ZOdio Etiam Institute",
+	"country": "India"
+}, {
+	"id": "3",
+	"name": "qwBrendan",
+	"phone": "1-724-406-2487",
+	"company": "YEnim Commodo Limited",
+	
+	"country": "Bangladesh"
+}, {
+	"id": "4",
+	"name": "rarren",
+	"phone": "1-412-485-9725",
+	"company": "Odio Etiam Institute",
+	 
+	"country": "India"
+}, {
+	"id": "5",
+	"name": "dssendan",
+	"phone": "1-724-406-2487",
+	"company": "Enim Commodo Limited",
+	 
+	"country": "Bangladesh"
+}, {
+	"id": "6",
+	"name": "Warren",
+	"phone": "1-412-485-9725",
+	"company": "Odio Etiam Institute",
+	 
+	"country": "India"
+}, {
+	"id": "7",
+	"name": "Brendan",
+	"phone": "1-724-406-2487",
+	"company": "Enim Commodo Limited",
+	 
+	"country": "Bangladesh"
+}, {
+	"id": "8",
+	"name": "Warren",
+	"phone": "1-412-485-9725",
+	"company": "Odio Etiam Institute",
+	 
+	"country": "India"
+}, {
+	"id": "9",
+	"name": "Brendan",
+	"phone": "1-724-406-2487",
+	"company": "Enim Commodo Limited",
+	 
+	"country": "Bangladesh"
+}, {
+	"id": "10",
+	"name": "Warren",
+	"phone": "1-412-485-9725",
+	"company": "Odio Etiam Institute",
+	 
+	"country": "India"
+}, {
+	"id": "11",
+	"name": "Brendan",
+	"phone": "1-724-406-2487",
+	"company": "Enim Commodo Limited",
+	 
+	"country": "Bangladesh"
+}]

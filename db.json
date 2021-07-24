@@ -1,4 +1,4 @@
-  [{
+{{
   	"id": "1",
   	"name": "Brendan",
   	"phone": "1-724-406-2487",
@@ -178,4 +178,4 @@
   	"city": "Sautin",
   	"date": "01/01/13",
   	"country": "India"
-  }]
+  }}
